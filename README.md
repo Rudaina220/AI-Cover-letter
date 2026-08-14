@@ -20,4 +20,5 @@ Upload a résumé and a job description, pick a tone, and Cast writes a draft co
 ## Files
 
 cast-cover-letter.html — the app
+
 favicon.ico — browser tab icon
