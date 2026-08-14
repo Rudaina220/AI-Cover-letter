@@ -21,8 +21,3 @@ Upload a résumé and a job description, pick a tone, and Cast writes a draft co
 
 cast-cover-letter.html — the app
 favicon.ico — browser tab icon
-cast-icon.png — reference icon
-
-## Notes
-
-Runs entirely client side, no server. Your API key stays in your browser and is only used to call Groq directly. Files are parsed with pdf.js and mammoth.js. Uses Groq's llama 3.3 70b versatile model.
